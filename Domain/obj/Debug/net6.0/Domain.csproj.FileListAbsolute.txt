@@ -1,0 +1,17 @@
+D:\CODE\FranMotorsProyect\FranMotors\Domain\bin\Debug\net6.0\Domain.deps.json
+D:\CODE\FranMotorsProyect\FranMotors\Domain\bin\Debug\net6.0\Domain.dll
+D:\CODE\FranMotorsProyect\FranMotors\Domain\bin\Debug\net6.0\Domain.pdb
+D:\CODE\FranMotorsProyect\FranMotors\Domain\bin\Debug\net6.0\Common.dll
+D:\CODE\FranMotorsProyect\FranMotors\Domain\bin\Debug\net6.0\Connection.dll
+D:\CODE\FranMotorsProyect\FranMotors\Domain\bin\Debug\net6.0\Common.pdb
+D:\CODE\FranMotorsProyect\FranMotors\Domain\bin\Debug\net6.0\Connection.pdb
+D:\CODE\FranMotorsProyect\FranMotors\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+D:\CODE\FranMotorsProyect\FranMotors\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\FranMotorsProyect\FranMotors\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+D:\CODE\FranMotorsProyect\FranMotors\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+D:\CODE\FranMotorsProyect\FranMotors\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+D:\CODE\FranMotorsProyect\FranMotors\Domain\obj\Debug\net6.0\Domain.csproj.Up2Date
+D:\CODE\FranMotorsProyect\FranMotors\Domain\obj\Debug\net6.0\Domain.dll
+D:\CODE\FranMotorsProyect\FranMotors\Domain\obj\Debug\net6.0\refint\Domain.dll
+D:\CODE\FranMotorsProyect\FranMotors\Domain\obj\Debug\net6.0\Domain.pdb
+D:\CODE\FranMotorsProyect\FranMotors\Domain\obj\Debug\net6.0\ref\Domain.dll

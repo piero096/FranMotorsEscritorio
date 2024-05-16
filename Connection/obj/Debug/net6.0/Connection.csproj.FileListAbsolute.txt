@@ -1,0 +1,15 @@
+D:\CODE\FranMotorsProyect\FranMotors\Connection\bin\Debug\net6.0\Connection.deps.json
+D:\CODE\FranMotorsProyect\FranMotors\Connection\bin\Debug\net6.0\Connection.dll
+D:\CODE\FranMotorsProyect\FranMotors\Connection\bin\Debug\net6.0\Connection.pdb
+D:\CODE\FranMotorsProyect\FranMotors\Connection\bin\Debug\net6.0\Common.dll
+D:\CODE\FranMotorsProyect\FranMotors\Connection\bin\Debug\net6.0\Common.pdb
+D:\CODE\FranMotorsProyect\FranMotors\Connection\obj\Debug\net6.0\Connection.csproj.AssemblyReference.cache
+D:\CODE\FranMotorsProyect\FranMotors\Connection\obj\Debug\net6.0\Connection.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\FranMotorsProyect\FranMotors\Connection\obj\Debug\net6.0\Connection.AssemblyInfoInputs.cache
+D:\CODE\FranMotorsProyect\FranMotors\Connection\obj\Debug\net6.0\Connection.AssemblyInfo.cs
+D:\CODE\FranMotorsProyect\FranMotors\Connection\obj\Debug\net6.0\Connection.csproj.CoreCompileInputs.cache
+D:\CODE\FranMotorsProyect\FranMotors\Connection\obj\Debug\net6.0\Connection.csproj.Up2Date
+D:\CODE\FranMotorsProyect\FranMotors\Connection\obj\Debug\net6.0\Connection.dll
+D:\CODE\FranMotorsProyect\FranMotors\Connection\obj\Debug\net6.0\refint\Connection.dll
+D:\CODE\FranMotorsProyect\FranMotors\Connection\obj\Debug\net6.0\Connection.pdb
+D:\CODE\FranMotorsProyect\FranMotors\Connection\obj\Debug\net6.0\ref\Connection.dll
